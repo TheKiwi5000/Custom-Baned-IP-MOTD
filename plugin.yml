@@ -1,0 +1,9 @@
+name: CustomIPBanMessage
+description: Test roznych eventow
+author: TheKiwi5000
+database: false
+prefix: TK5-CIPBM
+website: http://bcsn.website.pl/kiwikiwi
+main: pl.website.bcsn.customipbanmessage.CIPBM
+version: 1.0
+

@@ -1,0 +1,5 @@
+#The motd displayed in clients connecting from banned IP's
+#Color codes starting with & can be used (&1, &a, &k)
+#Constants:
+#@ip - client's IP
+message: '&c&lYou are banned here, &c&l&o@ip'
